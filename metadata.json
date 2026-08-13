@@ -1,0 +1,6 @@
+{
+  "name": "Scout Portfolio",
+  "description": "Scout Portfolio app for Nurhalifah showcasing Pramuka scouting journey, skills, badges, knots, semaphore, and contact.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
